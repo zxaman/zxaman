@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I think I am funny.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://twitter.com/amankumar909200" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankumar909200" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aman-kumar-045a3a272" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-045a3a272" height="30" width="40" /></a>
