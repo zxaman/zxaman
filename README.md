@@ -1,33 +1,52 @@
-<h1 align="center">Hi 👋, I'm Aman Kumar</h1>  
+<h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="left"> 
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=zxaman&label=Profile%20views&color=0e75b6&style=flat" alt="zxaman" />
-</p>
-
-<p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=zxaman" alt="zxaman" />
+    <img src="https://github-profile-trophy.vercel.app/?username=zxaman&margin-w=15&margin-h=15&column=7" alt="zxaman" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Flask, Django, React, NodeJs, AWS.**      
-- 💬 Ask me about **Python, C, C++, HTML, CSS, PHP, JavaScript, Tailwind, Bootstrap CSS, Flutter, Dart, Android Development, Java, MySQL, SQLite, Google Cloud, Microsoft Azure.**
-- 📫 How to reach me: **amankumardk1@gmail.com**
-- ⚡ Fun fact: **I think I am funny.**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zxaman&show_icons=true&locale=en" alt="zxaman" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zxaman" alt="zxaman" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zxaman&show_icons=true&locale=en&layout=compact" alt="zxaman" />
+</p>
+
+<h3 align="left">🌱 I’m currently learning:</h3>
+<ul>
+  <li>Flask</li>
+  <li>Django</li>
+  <li>React</li>
+  <li>NodeJs</li>
+  <li>AWS</li>
+</ul>
+
+<h3 align="left">💬 Ask me about:</h3>
+<p>Python, C, C++, HTML, CSS, PHP, JavaScript, Tailwind, Bootstrap CSS, Flutter, Dart, Android Development, Java, MySQL, SQLite, Google Cloud, Microsoft Azure.</p>
+
+<h3 align="left">📫 How to reach me:</h3>
+<p>Email: <a href="mailto:amankumardk1@gmail.com">amankumardk1@gmail.com</a></p>
+
+<h3 align="left">⚡ Fun fact:</h3>
+<p>I think I am funny.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/amankumar909200" target="blank">
+  <a href="https://twitter.com/amankumar909200" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="amankumar909200" height="30" width="40" />
   </a>
-  <a href="https://linkedin.com/in/aman-kumar-045a3a272" target="blank">
+  <a href="https://linkedin.com/in/aman-kumar-045a3a272" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aman-kumar-045a3a272" height="30" width="40" />
   </a>
-  <a href="https://instagram.com/_.amankumar909" target="blank">
+  <a href="https://instagram.com/_.amankumar909" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.amankumar909" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/amankumardk1" target="blank">
+  <a href="https://www.hackerrank.com/amankumardk1" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="amankumardk1" height="30" width="40" />
   </a>
 </p>
@@ -130,16 +149,4 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-</p>
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zxaman&show_icons=true&locale=en&layout=compact" alt="zxaman" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zxaman&show_icons=true&locale=en" alt="zxaman" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zxaman&" alt="zxaman" />
 </p>
