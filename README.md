@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-<p align="center">       
+<p align="center">        
   <img src="https://komarev.com/ghpvc/?username=zxaman&label=Profile%20views&color=0e75b6&style=flat" alt="zxaman" />    
   <a href="https://github.com/ryo-ma/github-profile-trophy">     
     <img src="https://github-profile-trophy.vercel.app/?username=zxaman&margin-w=15&margin-h=15&column=7" alt="zxaman" />   
