@@ -19,6 +19,7 @@
 
 <h3 align="left">🌱 I’m currently learning:</h3>
 <ul>
+  <li>Angular</li>
   <li>Flask</li>
   <li>Django</li>
   <li>React</li>
